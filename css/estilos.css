@@ -1,0 +1,29 @@
+/* ------------------
+Estilos diseño
+---------------*/
+
+
+.bg-primary{
+	background-color: #ff401c !important;
+}
+.text-primary{
+	color: #ff401c !important;
+}
+.btn-primary{
+	background-color: #ff401c !important;
+	border-color:  #b52003 !important;
+}
+
+html {
+	font-size: 13px;
+}
+
+.card:hover{
+	box-shadow: 0 0 10px #ff00002e;
+}
+
+@media (min-width: 768px){
+	html{
+		font-size: 16px
+	}
+}
